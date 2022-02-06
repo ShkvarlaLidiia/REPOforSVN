@@ -1,3 +1,4 @@
-Шкварла Лідія (виконання завдання №25-SVN)
+Shkvarla Lydia (task №25-SVN)
 
 №2 repository in GitHUB
+It turns out you need to write only in English
